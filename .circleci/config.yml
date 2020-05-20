@@ -203,8 +203,8 @@ workflows:
       - small
       - medium
       - medium+
-      - large
-      - xlarge
+      # - large
+      # - xlarge
 
   vm_jobs:
     jobs:
