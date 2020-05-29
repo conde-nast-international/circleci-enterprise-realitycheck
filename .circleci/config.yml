@@ -198,8 +198,8 @@ jobs:
 
 workflows:
   version: 2
-  resource_class_jobs:
-    jobs:
+  # resource_class_jobs:
+  #   jobs:
       # - small
       # - medium
       # - medium+
